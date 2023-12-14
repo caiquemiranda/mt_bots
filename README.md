@@ -6,33 +6,17 @@ Bem-vindo ao repositório dedicado à criação de robôs de negociação automa
 
 O repositório está organizado da seguinte forma:
 
-/
-|-- /Experts
-| |-- SeusRobosAqui.ex5
-|
-|-- /Indicators
-| |-- SeusIndicadoresAqui.ex5
-|
-|-- /Scripts
-| |-- SeusScriptsAqui.ex5
-|
-|-- /Include
-| |-- ArquivosDeInclusaoAqui.mqh
-|
-|-- README.md
-|-- LICENÇA
-
-- **/Experts**: Contém os robôs de negociação (EAs) desenvolvidos por você.
-- **/Indicators**: Armazena indicadores personalizados que podem ser utilizados em suas estratégias.
-- **/Scripts**: Inclui scripts MQL5 que podem ser úteis para funções específicas.
-- **/Include**: Contém arquivos de inclusão comum, se houver, para facilitar a modularização e reutilização de código.
+- **Experts**: Contém os robôs de negociação (EAs) desenvolvidos por você.
+- **Indicators**: Armazena indicadores personalizados que podem ser utilizados em suas estratégias.
+- **Scripts**: Inclui scripts MQL5 que podem ser úteis para funções específicas.
+- **Include**: Contém arquivos de inclusão comum, se houver, para facilitar a modularização e reutilização de código.
 
 ## Início Rápido
 
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/caiquemiranda/mt_bots.git
    ```
 
 1 - Desenvolva e adicione seus robôs de negociação, indicadores e scripts nos diretórios apropriados.
